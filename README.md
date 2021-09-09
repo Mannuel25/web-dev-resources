@@ -31,7 +31,7 @@ You can create segments for html blogs, documentations, repositories, books and 
 <br />
 <details><summary>.html websites </summary><blockquote>
 <ul>
-  <li><a href="https://html5doctor.com"> HTML5 Doctor</a></li>
+  <li><a href="https://html5doctor.com" target="_blank"> HTML5 Doctor</a></li>
   <li><a href="https://www.w3resource.com/html/HTML-tutorials.php">w3resource- HTML</a></li>
   <li><a href="https://www.w3resource.com/html5/introduction.php">w3resource- HTML5</a></li>
   <li><a href="https://progate.com/courses/html">Progate</a></li>
